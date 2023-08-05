@@ -1,8 +1,8 @@
 // Identifiquen que variables deben ser constantes (const) y que otras variables
 // deben ser (let)
-let nombre = 'Juan';
+let nombre = 'angelo cuellar';
 let instituto = 'IDAT';
-let edad = 19;
+let edad = 27;
 let nombreDeMascota = 'Scooby';
 let ciudad = 'Lima';
 
